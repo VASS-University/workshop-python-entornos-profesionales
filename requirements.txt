@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+ipywidgets
+transformers
+torch
+torchvision
+torchaudio
+diffusers
+accelerate
+python-dotenv
+gradio
+phonemizer
+timm
+matplotlib
