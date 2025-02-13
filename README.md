@@ -1,5 +1,9 @@
 # workshop-python-entornos-profesionales
 
+## Pasos a seguir
+
+Para poder seguir correctamente la sesión, tienes que ver los vídeos y seguir los pasos para tener creado el entorno
+
 ## Descripción
 
 Este repositorio contiene el código fuente del taller de "Python en entornos profesionales".
